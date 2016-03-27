@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://leena-k.com/images/linkedin-2-xxl33x33.png</loc>
+    <lastmod>2016-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://leena-k.com/images/linkedin-2-xxl33x33_2x.png</loc>
+    <lastmod>2016-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://leena-k.com/images/twitter-2-xxl33x33.png</loc>
+    <lastmod>2016-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://leena-k.com/images/twitter-2-xxl33x33_2x.png</loc>
+    <lastmod>2016-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://leena-k.com/images/linkedin-2-xxl.png</loc>
+    <lastmod>2016-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://leena-k.com/images/linkedin-2-xxl_2x.png</loc>
+    <lastmod>2016-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://leena-k.com/images/twitter-2-xxl.png</loc>
+    <lastmod>2016-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://leena-k.com/images/twitter-2-xxl_2x.png</loc>
+    <lastmod>2016-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://leena-k.com/index.html</loc>
+    <lastmod>2016-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://leena-k.com/phone/index.html"/>
+  </url>
+  <url>
+    <loc>http://leena-k.com/about.html</loc>
+    <lastmod>2016-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://leena-k.com/phone/about.html"/>
+  </url>
+  <url>
+    <loc>http://leena-k.com/contact.html</loc>
+    <lastmod>2016-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://leena-k.com/phone/contact.html"/>
+  </url>
+  <url>
+    <loc>http://leena-k.com/eric-lanlard.html</loc>
+    <lastmod>2016-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://leena-k.com/phone/eric-lanlard.html"/>
+  </url>
+  <url>
+    <loc>http://leena-k.com/amex.html</loc>
+    <lastmod>2016-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://leena-k.com/phone/amex.html"/>
+  </url>
+  <url>
+    <loc>http://leena-k.com/ebola-one-year-on.html</loc>
+    <lastmod>2016-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://leena-k.com/phone/ebola-one-year-on.html"/>
+  </url>
+  <url>
+    <loc>http://leena-k.com/justgiving.html</loc>
+    <lastmod>2016-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://leena-k.com/phone/justgiving.html"/>
+  </url>
+  <url>
+    <loc>http://leena-k.com/tech-irl.html</loc>
+    <lastmod>2016-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://leena-k.com/phone/tech-irl.html"/>
+  </url>
+  <url>
+    <loc>http://leena-k.com/twitter-moment.html</loc>
+    <lastmod>2016-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://leena-k.com/phone/twitter-moment.html"/>
+  </url>
+</urlset>
